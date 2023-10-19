@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live view: []
+- Live view: [https://wannab3dev.github.io/3-column-preview-card]
 
 ## My process
 
@@ -35,4 +35,4 @@ Users should be able to:
 
 ### What I learned
 
-This is my first time when i use @media and create responsive website! :) If you can, please leave a comment on frontendmentor.io: []
+This is my first time when i use @media and create responsive website! :) If you can, please leave a comment on frontendmentor.io: [https://www.frontendmentor.io/solutions/3-column-preview-card-my-first-time-with-media-_wFwZE8wV1]
